@@ -10,6 +10,6 @@ public class SumaAcumulativa {
             //realizar la suma acumulativa
             acumuladoresSuma += numero++;
         }
-        System.out.println("Suma de los primeros " + MAXIMO + " Numeros: " + acumuladoresSuma);
+        System.out.println("Suma de los primeros " + MAXIMO + " Numeros:||| " + acumuladoresSuma);
     }
 }
